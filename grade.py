@@ -8,3 +8,6 @@ class Grade:
     
     def add_lecture(self):
         pass
+
+    def add_note(self):
+        pass
